@@ -2,5 +2,4 @@ venv/
 __pycache__/
 *.pyc
 *.db
-.ipynb_checkpoints/
-.vscode/
+.ipynb_ch
